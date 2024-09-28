@@ -1,0 +1,6 @@
+strings =input("Enter the string or the name whose experiment you wanna do: ")
+name = input("Enter the name whose upper case and the lower case you wanna see: ")
+str_find = input("Input the string which you wanna find from the string you gave me at the very first: ")
+print(strings.find(str_find))
+print(name.upper())
+print(name.lower())
