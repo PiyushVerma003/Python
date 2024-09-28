@@ -1,0 +1,5 @@
+name = input("Enter your namer: ")
+age = int(input("Enter your age which was two years ago: "))
+print("As per your given information your name is: "+name)
+new_age = int(age) + 20
+print("your new age is: " + str(new_age))
